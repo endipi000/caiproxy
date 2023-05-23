@@ -1,0 +1,2 @@
+# caiproxy
+lệnh cài proxy
